@@ -1,0 +1,8 @@
+{
+  "name": "Med3D - Advanced Clinic Ecosystem",
+  "description": "A premium, futuristic healthcare booking system featuring interactive 3D clinic previews, real-time token tracking, and comprehensive dashboards for patients and doctors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
